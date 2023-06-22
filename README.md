@@ -18,6 +18,6 @@ Set the __$username__ and __$password__ variables in the script (or uncomment th
 ## usage
 Open a PowerShell and navigate to the folder you've stored this script in.  Then type
 
-``` <!-- language: python -->
+``` <!-- language: powershell -->
 .\download_sharepoint_iwr.ps1
 ```
